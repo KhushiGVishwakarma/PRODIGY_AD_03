@@ -42,5 +42,5 @@ I’ve developed a responsive and intuitive **Stopwatch App** using **Java** and
 ---
 
 ## 🚀 Connect With Me:
-- 💼 [LinkedIn – Khushi Vishwakarma](https://www.linkedin.com/in/khushi-vishwakarma/)
+- 💼 [LinkedIn – Khushi Vishwakarma](https://www.linkedin.com/in/khushi-vishwakarma-152188341)
 - 💻 [GitHub – @KhushiGVishwakarma](https://github.com/KhushiGVishwakarma)
