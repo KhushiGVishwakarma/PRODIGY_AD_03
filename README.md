@@ -1,57 +1,46 @@
-PRODIGY_AD_03 – Stopwatch Android App
-📱 Project Description:
-This is my third task as part of the Android Development Internship at Prodigy InfoTech.
-I’ve built a Stopwatch App using Java and XML, featuring accurate time tracking and a clean, minimal user interface.
+# PRODIGY_AD_03 – Stopwatch Android App
 
-🔧 Features:
-▶️ Start the timer
+## 📱 Project Description:
+This is my third task as part of the **Android Development Internship at Prodigy InfoTech**.  
+I’ve developed a responsive and intuitive **Stopwatch App** using **Java** and **XML**, featuring real-time time tracking with Start, Pause, and Reset functionality.
 
-⏸️ Pause the timer
+## 🔧 Features:
+- ▶️ Start the stopwatch to begin timing
+- ⏸️ Pause the timer and resume anytime
+- 🔁 Reset button to start fresh
+- 🕒 Displays time in minutes:seconds:milliseconds
+- 🌙 Minimal, dark-themed modern UI
+- 💡 Accurate and smooth updates using `Handler` and `Runnable`
 
-🔁 Reset functionality
+## 🛠️ Tech Stack:
+- XML for UI Design
+- Java for Timer Logic
+- Handler and Runnable for time calculation
+- Material Buttons for user actions
+- ConstraintLayout for clean layout management
 
-⏱️ Displays minutes, seconds, and milliseconds
+## 📎 LinkedIn Post:
+[🔗 View My LinkedIn Post ➜](#) <!-- Add your LinkedIn post URL here once published -->
 
-🌙 Sleek, dark-themed modern UI
+## 📂 GitHub Repository:
+[🔗 PRODIGY_AD_03 GitHub Repo](https://github.com/KhushiGVishwakarma/PRODIGY_AD_03)
 
-⚡ Real-time updates with Handler and Runnable
+## 📌 Task Info:
+- Track: Android Development  
+- Internship: Prodigy InfoTech  
+- Task 03: Stopwatch App
 
-🛠️ Tech Stack:
-XML for UI Layout
+---
 
-Java for App Logic
+## 📈 What I Learned:
+- Working with `Handler` and `Runnable` for real-time updates
+- Formatting and displaying time values in milliseconds
+- Structuring responsive UIs using `ConstraintLayout`
+- Managing state across Start, Pause, and Reset actions
+- Enhancing user experience with clean, accessible interfaces
 
-Handler & Runnable for timing mechanism
+---
 
-Buttons for user interaction
-
-TextView for formatted time display
-
-📎 LinkedIn Post:
-🔗 View My LinkedIn Post ➜ (Update this once your post is live)
-
-📂 GitHub Repository:
-🔗 PRODIGY_AD_03 GitHub Repo
-
-📌 Task Info:
-Track: Android Development
-
-Internship: Prodigy InfoTech
-
-Task 03: Stopwatch App
-
-📈 What I Learned:
-Building time-based apps with Handler and Runnable
-
-Formatting time for display (MM:SS:MS)
-
-Managing UI updates in real-time
-
-Designing responsive layouts with XML
-
-Enhancing user experience with a clean, interactive interface
-
-🚀 Connect With Me:
-💼 LinkedIn – Khushi Vishwakarma
-
-💻 GitHub – @KhushiGVishwakarma
+## 🚀 Connect With Me:
+- 💼 [LinkedIn – Khushi Vishwakarma](https://www.linkedin.com/in/khushi-vishwakarma/)
+- 💻 [GitHub – @KhushiGVishwakarma](https://github.com/KhushiGVishwakarma)
