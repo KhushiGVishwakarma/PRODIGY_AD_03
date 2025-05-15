@@ -20,8 +20,7 @@ I’ve developed a responsive and intuitive **Stopwatch App** using **Java** and
 - ConstraintLayout for clean layout management
 
 ## 📎 LinkedIn Post:
-[🔗 View My LinkedIn Post ➜](#) <!-- Add your LinkedIn post URL here once published -->
-
+[🔗 View My LinkedIn Post ➜](https://www.linkedin.com/posts/khushi-vishwakarma-152188341_androiddevelopment-java-stopwatchapp-activity-7328819039877656576-4EqB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWiGs4BdFdE1dlYyl_9NpIWNoSnGlDpcL0) 
 ## 📂 GitHub Repository:
 [🔗 PRODIGY_AD_03 GitHub Repo](https://github.com/KhushiGVishwakarma/PRODIGY_AD_03)
 
