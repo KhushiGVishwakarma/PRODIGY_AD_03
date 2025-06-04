@@ -1,7 +1,6 @@
-# PRODIGY_AD_03 – Stopwatch Android App
+# Stopwatch Android App
 
-## 📱 Project Description:
-This is my third task as part of the **Android Development Internship at Prodigy InfoTech**.  
+## 📱 Project Description: 
 I’ve developed a responsive and intuitive **Stopwatch App** using **Java** and **XML**, featuring real-time time tracking with Start, Pause, and Reset functionality.
 
 ## 🔧 Features:
@@ -22,12 +21,7 @@ I’ve developed a responsive and intuitive **Stopwatch App** using **Java** and
 ## 📎 LinkedIn Post:
 [🔗 View My LinkedIn Post ➜](https://www.linkedin.com/posts/khushi-vishwakarma-152188341_androiddevelopment-java-stopwatchapp-activity-7328819039877656576-4EqB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWiGs4BdFdE1dlYyl_9NpIWNoSnGlDpcL0) 
 ## 📂 GitHub Repository:
-[🔗 PRODIGY_AD_03 GitHub Repo](https://github.com/KhushiGVishwakarma/PRODIGY_AD_03)
-
-## 📌 Task Info:
-- Track: Android Development  
-- Internship: Prodigy InfoTech  
-- Task 03: Stopwatch App
+[🔗 Stopwatch_App_Android GitHub Repo](https://github.com/KhushiGVishwakarma/Stopwatch_App_Android)
 
 ---
 
